@@ -1,16 +1,17 @@
-### Hi there 👋
+<div>
 
-<!--
-**Ganarok/ganarok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, it's Ganarok !
+</h1>
+<img src="https://komarev.com/ghpvc/?username=ganarok" alt="Ganarok" />
 
-Here are some ideas to get you started:
+<h2> ⚙️ &nbsp;GitHub Statistics</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+        <a href="https://github.com/ganarok">
+            <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ganarok&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+            <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ganarok&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true" />
+        </a>
+</div>
+
+</div>
