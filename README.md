@@ -1,11 +1,18 @@
-<div>
+
 
 <h1 align="center">
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, it's Ganarok !
 </h1>
+    
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=ganarok" alt="Ganarok" />
 
-<h2> ⚙️ &nbsp;GitHub Statistics</h2>
+<a href="https://github.com/Pepyn0?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ganarok?style=social" alt="Followers" />
+</a>
+</div>
+
+
 
 <div align="center">
         <a href="https://github.com/ganarok">
@@ -14,4 +21,4 @@
         </a>
 </div>
 
-</div>
+
